@@ -3,7 +3,6 @@
 #define BLYNK_AUTH_TOKEN "Ge1vZ1bLCsqGz2JchLLDjjFLpqAqpawt"
 #define BLYNK_PRINT Serial
 
-#include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
 int alert;
